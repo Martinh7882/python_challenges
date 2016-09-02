@@ -10,6 +10,13 @@ for extra credit, have the program log this information in a file to be accessed
 name = input("What Is Your Name?")
 age = input("What Is Your Age?")
 redditusername = input("What Is Your Username?")
+c_info = [name, age, redditusername]
+f = open("cinfo.txt", 'w')
+
+for i in c_info:
+    f.write(i + '\n')
+f.close()
+
 
 
 print("Your Name Is {}, You Are {} Years Old, & Your Username is {}".format(name, age, redditusername))
