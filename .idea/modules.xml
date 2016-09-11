@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/CH_3/.idea/CH_3.iml" filepath="$USER_HOME$/PycharmProjects/CH_3/.idea/CH_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python_challenges.iml" filepath="$PROJECT_DIR$/.idea/python_challenges.iml" />
     </modules>
   </component>
